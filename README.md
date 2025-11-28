@@ -3,8 +3,6 @@ Uber Clone - Next.js & TailwindCSS
 
 A modern Uber Clone built with Next.js, TailwindCSS, Firebase Authentication, and Mapbox, featuring a responsive UI, glassmorphism effects, and animated buttons.
 
-
-
 Table of Contents
 
 - Demo
@@ -34,31 +32,6 @@ Features
 - Action Buttons – Ride, Wheels, Reserve with icons  
 - Custom Animations – Pulse effect on input and hover effects  
 - Saved Places & Inputs – Pickup & dropoff with icons and autocomplete style  
-
-
-Assets
-
-Map & Images
-
-- Map Style: `mapbox://styles/drakosi/ckvcwq3rwdw4314o3i2ho8tph`  
-- Uber Logo (Index): ![Logo](https://i.ibb.co/84stgjq/uber-technologies-new-20218114.jpg)  
-- Uber Logo (Login): ![Logo](https://i.ibb.co/n6LWQM4/Post.png)  
-- Login Image: ![Login](https://i.ibb.co/CsV9RYZ/login-image.png)  
-- Uber X: TBD  
-- Uber XL: ![Uber XL](https://i.ibb.co/YDYMKny/uberxl.png)  
-- Uber Black: ![Uber Black](https://i.ibb.co/Xx4G91m/uberblack.png)  
-- Uber Black SUV: ![Uber Black SUV](https://i.ibb.co/1nStPWT/uberblacksuv.png)  
-- Bike: ![Bike](https://i.ibb.co/n776JLm/bike.png)  
-- Schedule: ![Schedule](https://i.ibb.co/5RjchBg/uberschedule.png)  
-
-Icons
-
-- Back Button: ![Back](https://img.icons8.com/ios-filled/50/000000/left.png)  
-- Circle Icon: ![Circle](https://img.icons8.com/ios-filled/50/9CA3AF/filled-circle.png)  
-- Line Icon: ![Line](https://img.icons8.com/ios/50/9CA3AF/vertical-line.png)  
-- Square Icon: ![Square](https://img.icons8.com/windows/50/000000/square-full.png)  
-- Plus Icon: ![Plus](https://img.icons8.com/ios/50/000000/plus-math.png)  
-- Star Icon: ![Star](https://img.icons8.com/ios-filled/50/ffffff/star--v1.png)  
 
 
 Tech Stack
