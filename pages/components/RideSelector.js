@@ -9,7 +9,7 @@ const RideSelector = ({ pickupCoordinates, dropoffCoordinates }) => {
     //? get ride duration from mapbox API
     //*  @params: pickup and dropoff coordinates
     useEffect(() => {
-        fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/${pickupCoordinates[0]},${pickupCoordinates[1]};${dropoffCoordinates[0]},${dropoffCoordinates[1]}?access_token=pk.eyJ1IjoiZGl2anlvdDMxMTIiLCJhIjoiY2t5NmU3MTUxMHV6dzJubWxseTA2bGt3ZCJ9.JlIK34STp0iZ_GudoHqK2Q`)
+        fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/${pickupCoordinates[0]},${pickupCoordinates[1]};${dropoffCoordinates[0]},${dropoffCoordinates[1]}?access_token=pk.eyJ1IjoiZGl2anlvdDMxMTIiLCJhIjoiY2t5NmU3MTUxxxxxxxxxxxxxxxxxxxxMHV6dzJubWxseTA2bGtxxxxxxxxxxxxxxxxxxxxxxxx3ZCJ9.JlIK34STp0iZ_GudoHqK2Q`)
             .then(res => res.json())
             .then(data => {
                 console.log(data);

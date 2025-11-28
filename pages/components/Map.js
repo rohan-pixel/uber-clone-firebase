@@ -4,7 +4,7 @@ import tw from 'tailwind-styled-components'
 import mapboxgl from '!mapbox-gl'
 
 mapboxgl.accessToken =
-  'pk.eyJ1IjoiZGl2anlvdDMxMTIiLCJhIjoiY2t5NmU3MTUxMHV6dzJubWxseTA2bGt3ZCJ9.JlIK34STp0iZ_GudoHqK2Q';
+  'pk.eyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 const Map = (props) => {
 
